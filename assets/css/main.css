@@ -2173,7 +2173,7 @@ background-color: #ffffff;
 }
 
 .team {
-  background-image: url("/assets/img/beneficios-19.jpg");
+  background-image: url("entregafinal/assets/img/beneficios-19.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -2277,7 +2277,7 @@ background-color: #ffffff;
   }
   
   #newteam {
-    background-image: url("/assets/img/fondoteam.jpg");
+    background-image: url("entregafinal/assets/img/fondoteam.jpg");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
