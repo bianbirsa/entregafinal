@@ -1958,8 +1958,8 @@ border-radius: 0% 20% 0% 20%;/*superior izquierdo, superior derecho,inferior der
 
 
 
-.pricingcursos {
-  background-image: url("/assets/img/precio\ CURSOS-14.jpg");
+#pricingcursos {
+  background-image: url("/assets/img/preciocursos.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
