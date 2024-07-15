@@ -2549,7 +2549,7 @@ color: #ffffff;
 
 
 .recent-posts {
-  background-image: url("/assets/img/fondonaranja.jpg");
+  background-image: url("/assets/img/fondofallado.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -2652,7 +2652,7 @@ border-radius: 0px 50px 0px 50px;/* superior izquierdo, superior derecho, inferi
       }
       
       .contact {
-        background-image: url("/assets/img/contacto\ CURSOS-16.jpg");
+        background-image: url("/assets/img/contactofondo.jpg");
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
