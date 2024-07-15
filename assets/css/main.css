@@ -1144,7 +1144,7 @@ border-radius: 0% 20% 0% 20%;/*superior izquierdo, superior derecho,inferior der
 
 
 #aboutcursos {
-  background-image: url("/assets/img/about\ CURSO-11.jpg");
+  background-image: url("/entregafinal/assets/img/about\ CURSO-11.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -1294,7 +1294,7 @@ border-radius: 0% 20% 0% 20%;/*superior izquierdo, superior derecho,inferior der
 }
 
 .services {
-  background-image: url("/assets/img/TIPS\ PPAL-17.jpg");
+  background-image: url("/entregafinal/assets/img/TIPS\ PPAL-17.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -1381,7 +1381,7 @@ border-radius: 0% 20% 0% 20%;/*superior izquierdo, superior derecho,inferior der
 }
 
 #servicescursos {
-  background-image: url("/assets/img/clases\ CURSO-20.jpg");
+  background-image: url("/entregafinal/assets/img/clases\ CURSO-20.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -1496,7 +1496,7 @@ border-radius: 0% 20% 0% 20%;/*superior izquierdo, superior derecho,inferior der
 
 
 .features {
-  background-image: url("/assets/img/fondo\ cursos\ 1.jpg");
+  background-image: url("/entregafinal/assets/img/fondo\ cursos\ 1.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -1643,7 +1643,7 @@ border-radius: 0% 20% 0% 20%;/*superior izquierdo, superior derecho,inferior der
                   }
 
                   .portfolio {
-                    background-image: url("/assets/img/portfolio\ CURSOS-12.jpg");
+                    background-image: url("/entregafinal/assets/img/portfolio\ CURSOS-12.jpg");
                     background-repeat: no-repeat;
                     background-position: center top;
                     background-size: cover;
@@ -1801,7 +1801,7 @@ border-radius: 0% 20% 0% 20%;/*superior izquierdo, superior derecho,inferior der
 }
 
 .pricing {
-  background-image: url("/assets/img/precio\ CURSOS-14.jpg");
+  background-image: url("/entregafinal/assets/img/precio\ CURSOS-14.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -2078,7 +2078,7 @@ margin-right: auto;
 }
 
 .faq {
-  background-image: url("/assets/img/preguntas\ CURSOS-15.jpg");
+  background-image: url("/entregafinal/assets/img/preguntas\ CURSOS-15.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -2173,7 +2173,7 @@ background-color: #ffffff;
 }
 
 .team {
-  background-image: url("entregafinal/assets/img/beneficios-19.jpg");
+  background-image: url("/entregafinal/assets/img/beneficios-19.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -2277,7 +2277,7 @@ background-color: #ffffff;
   }
   
   #newteam {
-    background-image: url("entregafinal/assets/img/fondoteam.jpg");
+    background-image: url("/entregafinal/assets/img/fondoteam.jpg");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -2471,7 +2471,7 @@ background-color: #ffffff;
 }
 
 #testimonials {
-  background-image: url("/assets/img/testimoniofondo.jpg");
+  background-image: url("/entregafinal/assets/img/testimoniofondo.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -2549,7 +2549,7 @@ color: #ffffff;
 
 
 .recent-posts {
-  background-image: url("entregafinal/assets/img/fondofallado.jpg");
+  background-image: url("/entregafinal/assets/img/fondofallado.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -2652,7 +2652,7 @@ border-radius: 0px 50px 0px 50px;/* superior izquierdo, superior derecho, inferi
       }
       
       .contact {
-        background-image: url("/assets/img/contactofondo.jpg");
+        background-image: url("/entregafinal/assets/img/contactofondo.jpg");
         background-repeat: no-repeat;
         background-position: center top;
         background-size: cover;
@@ -3027,7 +3027,7 @@ border-radius: 0px 50px 0px 50px;/* superior izquierdo, superior derecho, inferi
 }
 
 .blog-posts {
-  background-image: url("/assets/img/materiales\ CURSOS-13.jpg");
+  background-image: url("/entregafinal/assets/img/materiales\ CURSOS-13.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
