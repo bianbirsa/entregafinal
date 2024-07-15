@@ -2277,7 +2277,7 @@ background-color: #ffffff;
   }
   
   #newteam {
-    background-image: url("/assets/img/fondo\ curvas\ ok\ de\ alto-10.png");
+    background-image: url("/assets/img/fondoteam.jpg");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -2471,7 +2471,7 @@ background-color: #ffffff;
 }
 
 .testimonials {
-  background-image: url("/assets/img/testimonios\ ppal-18.jpg");
+  background-image: url("/assets/img/testimoniofondo.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -2549,7 +2549,7 @@ color: #ffffff;
 
 
 .recent-posts {
-  background-image: url("/assets/img/fondonaranja.png");
+  background-image: url("/assets/img/fondonaranja.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
