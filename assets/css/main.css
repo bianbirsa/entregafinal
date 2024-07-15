@@ -2470,7 +2470,7 @@ background-color: #ffffff;
   }
 }
 
-.testimonials {
+#testimonials {
   background-image: url("/assets/img/testimoniofondo.jpg");
   background-repeat: no-repeat;
   background-position: center top;
